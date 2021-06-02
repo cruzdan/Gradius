@@ -1,2 +1,0 @@
-C:\Users\Cruz\source\repos\Gradius\x64\Debug\Gradius.exe
-C:\Users\Cruz\source\repos\Gradius\x64\Debug\Gradius.pdb
